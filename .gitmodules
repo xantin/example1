@@ -1,0 +1,6 @@
+[submodule "shared"]
+	path = shared
+	url = git@github.com:xantin/programming-craft.git
+[submodule "src/xantin"]
+	path = src/xantin
+	url = git@github.com:xantin/xantin.github.io.git
